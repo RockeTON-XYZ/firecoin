@@ -1,3 +1,5 @@
+![Firecoin Header](https://ipfs.io/ipfs/QmTjRoaHYsmwkbzEenpehF1WikuY25qtLgQYeyKuKy3Vcw)
+
 # Firecoin - The Ultimate Gem Finder
 
 Firecoin is the "Coingecko on steroids" of the TON ecosystem.
